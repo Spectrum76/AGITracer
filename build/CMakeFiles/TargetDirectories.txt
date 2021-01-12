@@ -1,0 +1,3 @@
+D:/Vasko/Mine/CG discord/Code/Shadertoy_cpp/build/CMakeFiles/AGI_path_tracer.dir
+D:/Vasko/Mine/CG discord/Code/Shadertoy_cpp/build/CMakeFiles/ALL_BUILD.dir
+D:/Vasko/Mine/CG discord/Code/Shadertoy_cpp/build/CMakeFiles/ZERO_CHECK.dir
